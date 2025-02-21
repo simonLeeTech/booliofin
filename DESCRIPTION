@@ -1,0 +1,14 @@
+Package: booliofin
+Type: Package
+Title: tools for boolio data science Team What the Package Does (Title Case)
+Version: 0.1.0
+Authors@R: person("Seungkyu", "Lee", email = "seungkyu.lee@doomoolmori.com", role = c('aut', 'cre')) 
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
+Imports: 
+    TTR, xts, assertthat, stats, zoo, utils, PerformanceAnalytics, quantmod, openxlsx
